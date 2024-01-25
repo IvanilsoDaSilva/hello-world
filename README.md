@@ -36,7 +36,7 @@ This simple repository was created as part of my initial journey into learning p
   
 </div>
 
-<h2 align="right" id="ponto1">1.4. HOW TO USE </h2>
+<h2 align="right" id="ponto1">1.4. HOW TO USE 💡</h2>
 <p align="right">Use the following commands (if there are commands) by <kbd>CTRL</kbd>+<kbd>V</kbd> in the terminal and/or console.</p>
 
 📌 DOWNLOAD AND RUN THE CODE
